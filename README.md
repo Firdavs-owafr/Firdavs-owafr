@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Firdavs Eminov" />
+  <img src="https://raw.githubusercontent.com/firdavseminov/firdavseminov/master/name.svg" alt="Firdavs Eminov" />
 </h1>
 
 ## Hey! 👋
@@ -14,5 +14,4 @@ I'm Firdavs, a 14 years old web developer from Uzbekistan.
 - 👁️ SASS, CSS
 
 ## Contact
-- [@firdavscodes](https://telegram.com/firdavscodes) on Twitter
-- 
+- [@firdavscodes](https://telegram.com/firdavscodes) on Telegram
