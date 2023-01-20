@@ -4,5 +4,5 @@
 
 <p align="center">A FrontEnd Developer by day ☼ I have a rest in the evening I work ☾</p>
 
-<b align="center">## Contact</b>
+<h3 align="center">## Contact</b>
 <p align="center">- [@firdavscodes](https://telegram.com/firdavscodes) on Telegram </p>
