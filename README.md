@@ -2,7 +2,7 @@
   Hello there 👋
 </h1>
 
-A FrontEnd Developer by day ☼ I have a rest in the evening I work ☾
+<p align="center">A FrontEnd Developer by day ☼ I have a rest in the evening I work ☾</p>
 
 ## Contact
-- [@firdavscodes](https://telegram.com/firdavscodes) on Telegram
+<p align="center">- [@firdavscodes](https://telegram.com/firdavscodes) on Telegram </p>
