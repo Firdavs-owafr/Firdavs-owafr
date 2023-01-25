@@ -3,9 +3,7 @@
 A FrontEnd Developer by day ☼ I have a rest in the evening I work ☾
 import { ReactJs } from '@icons-pack/react-simple-icons';
 
-function BasicExample() {
-  return <ReactJs color='#61DAFB' size={24} />;
-}
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact
 
